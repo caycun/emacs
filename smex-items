@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ compile
+ cd
+ org-mode
+ linum-relative-mode
+ projectile-find-file
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (cd . 2)
+ (projectile-find-file . 2)
+ (compile . 5)
+ (linum-relative-mode . 1)
+ (org-mode . 3)
+ (org-info . 1)
+)
